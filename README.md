@@ -5,7 +5,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
-
+### `npm i or npm install`
+### `After you install everything right, you can set: `
 ### `npm start`
 
 Runs the app in the development mode.\
