@@ -13,3 +13,5 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 
+Check this application in vercel!
+https://emojipedia-8ol2hdpeq-caios-projects-dc5af49f.vercel.app/
